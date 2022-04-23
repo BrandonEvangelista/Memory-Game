@@ -7,7 +7,7 @@ Submitted by: **Brandon Evangelista**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/~prework-brandonevangelista...)
 
 ## Required Functionality
 
@@ -70,7 +70,7 @@ My code was very easy to read (for me at least), and I was able to make my code 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/6d4d227f09c34ec3bfe22e741c1f6c4f)
 
 
 ## License
