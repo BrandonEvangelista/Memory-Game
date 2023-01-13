@@ -36,14 +36,6 @@ The following **additional** features are implemented:
 
 - [ X] List anything else that you can get done to improve the app!** added text remind player that this is a test of one's might**
 
-## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-
-![](https://github.com/acousticdon/codepath-prework/blob/main/codepathprework/img/codepathGIF1.gif
-![](https://github.com/acousticdon/codepath-prework/blob/main/codepathprework/img/codepathGIF2.gif)
-
-
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
