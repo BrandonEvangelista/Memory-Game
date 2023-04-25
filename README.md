@@ -6,7 +6,7 @@ Submitted by: **Brandon Evangelista**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/~prework-brandonevangelista...)
+Link to project: (insert your link here, should start with https://mirror-me.glitch.me/  )
 
 ## Required Functionality
 
